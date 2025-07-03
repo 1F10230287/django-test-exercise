@@ -32,4 +32,4 @@ jobs:
 
 . -- count -- exit-zero -- max-complexity=10 -- max-line-length=127 -- statistics
       run: |
-        python manage.py tes
+        python manage.py test
